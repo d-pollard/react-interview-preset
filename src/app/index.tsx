@@ -26,7 +26,6 @@ export function App() {
         />
       </Helmet>
 
-      <div className="text-pink-50">Hello fellow friends</div>
       <Switch>
         <Route exact path="/" component={HomePage} />
         <Route component={NotFoundPage} />

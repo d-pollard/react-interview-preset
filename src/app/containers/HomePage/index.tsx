@@ -8,7 +8,9 @@ export function HomePage() {
         <title>Home Page</title>
         <meta name="description" content="A Boilerplate application homepage" />
       </Helmet>
-      <span>Welcome to your homepage</span>
+      <div className="flex flex-col sm:flex-row items-center justify-center h-full text-5xl space-x-0 sm:space-x-4">
+        <div>Welcome to your React Interview</div>
+      </div>
     </>
   );
 }
