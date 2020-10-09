@@ -1,6 +1,8 @@
 ## Instructions
 
-### NPM
+### Get Started
+
+#### NPM
 
 ```shell script
 git clone https://github.com/d-pollard/react-interview-preset
@@ -11,7 +13,7 @@ npm run start
 
 From here, you can access the development site at http://localhost:3030
 
-### Yarn
+#### Yarn
 
 ```shell script
 git clone https://github.com/d-pollard/react-interview-preset
